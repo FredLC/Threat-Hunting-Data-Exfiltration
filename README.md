@@ -101,8 +101,3 @@ While John did use **7-Zip** to archive several `.csv` files and moved them into
 - Conduct a full forensic review of John's user account and device.
 - Review and classify contents of the archived `.csv` files for sensitivity.
 - Implement alerting for archiving and data movement activities in sensitive departments.
-
----
-
-*Report by: [Fred Lefebvre]  
-Date: April 13, 2025*
